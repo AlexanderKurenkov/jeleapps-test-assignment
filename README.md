@@ -36,3 +36,12 @@ $ php artisan serve --host=localhost --port=8081
 * Ссылка на Postman-проект
 
     - [https://www.postman.com/spaceflight-participant-52368985/public-workspace](https://www.postman.com/spaceflight-participant-52368985/public-workspace)
+
+* GET-запрос к /profile
+
+![GET-запрос к /profile](docs/images/profile.png)
+
+
+* POST-запрос к /registration
+
+![POST-запрос к /registration](docs/images/registration.png)
